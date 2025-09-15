@@ -1,5 +1,5 @@
 {
-  "name": "docker-node-app",
+  "name": "Mocker",
   "version": "1.0.0",
   "description": "Node.js app with Docker",
   "main": "app.js",
