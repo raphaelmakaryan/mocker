@@ -35,3 +35,18 @@ Pour exécuter l'application, utilisez la commande suivante dans le terminal :
 npm start
 ```
 L'application devrait démarrer et être accessible à `http://localhost:3000`.
+
+
+<br>
+
+
+# Utiliser docker 
+
+## Crée le build
+`sudo docker build -t mocker .`
+
+## Lancer le build
+` sudo docker run -d -p 3000:3000 mocker`
+
+## Lien
+http://localhost:3000/
